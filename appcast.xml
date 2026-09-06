@@ -1,8 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Updates</title>
-    <description></description>
+    <description />
     <language>en</language>
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Sun, 06 Sep 2026 00:53:56 GMT</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/lllll8505-ui/releases/releases/download/v0.1.0/Slate-0.1.0.dmg" length="3534256" type="application/octet-stream" sparkle:edSignature="z+H3v3U9JjbolRT1QErjvljywnZTHYTqvdVKZlwN6G/BimVfxP3Roi24toGYVtaqqOA0UYqxY8Ei1zc1WHLcDA==" />
+    </item>
   </channel>
 </rss>
