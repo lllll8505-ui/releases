@@ -5,6 +5,14 @@
     <description />
     <language>en</language>
     <item>
+      <title>Version 0.1.9</title>
+      <pubDate>Sun, 06 Sep 2026 08:24:56 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/lllll8505-ui/releases/releases/download/v0.1.9/Slate-0.1.9.dmg" length="3495538" type="application/octet-stream" sparkle:edSignature="Vxs0PO2Ka8s9Fy4aAK48LgBhCCF7Aom+q5nJq3kFZmq/08y3eX8Ai0YC3qSXpgXuHa2QOHe4OF+cdFDwieDzBQ==" />
+    </item>
+    <item>
       <title>Version 0.1.8</title>
       <pubDate>Sun, 06 Sep 2026 07:13:03 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
